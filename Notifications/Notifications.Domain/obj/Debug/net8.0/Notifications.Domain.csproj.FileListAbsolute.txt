@@ -10,3 +10,15 @@ C:\Users\kbrera\Desktop\lab-2025-ii-pds-u2-02-cs-ccabrerastu\Notifications\Notif
 C:\Users\kbrera\Desktop\lab-2025-ii-pds-u2-02-cs-ccabrerastu\Notifications\Notifications.Domain\obj\Debug\net8.0\refint\Notifications.Domain.dll
 C:\Users\kbrera\Desktop\lab-2025-ii-pds-u2-02-cs-ccabrerastu\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.pdb
 C:\Users\kbrera\Desktop\lab-2025-ii-pds-u2-02-cs-ccabrerastu\Notifications\Notifications.Domain\obj\Debug\net8.0\ref\Notifications.Domain.dll
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.deps.json
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.dll
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.pdb
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.AssemblyInfoInputs.cache
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.AssemblyInfo.cs
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.csproj.CoreCompileInputs.cache
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.sourcelink.json
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.dll
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\obj\Debug\net8.0\refint\Notifications.Domain.dll
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.pdb
+C:\UNI\lab-2025-ii-pds-u2-02-cs-BCZLopezCatunta\Notifications\Notifications.Domain\obj\Debug\net8.0\ref\Notifications.Domain.dll
